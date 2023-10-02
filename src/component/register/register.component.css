@@ -1,0 +1,13 @@
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.form{
+padding: 20px;
+border: 2px solid gray;
+margin-top: 15px;
+border-radius: 10px;
+box-shadow: 2px 2px 2px gray;
+}
